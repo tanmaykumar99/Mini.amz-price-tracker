@@ -24,12 +24,12 @@ pip install -r requirements.txt
 
 ## Example Outputs
 
-![Unclean Title](images/dirty_title)
+![Unclean Title](images/dirty_title.png)
 
-![Cleaned Title](images/title)
+![Cleaned Title](images/title.png)
 
-![Unclean Amount](images/price)
+![Unclean Amount](images/price.png)
 
-![Cleaned Title](images/amount)
+![Cleaned Title](images/amount.png)
 
-![Final Output](images/final_cleaned_output)
+![Final Output](images/final_cleaned_output.png)
