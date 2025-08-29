@@ -13,9 +13,9 @@ DISCLAIMER: This project has been undertaken for personal and educational purpos
 ---
 ## Requirements
 Install dependencies with:
-
+```
 pip install -r requirements.txt
-
+```
 ---
 ## Example Outputs
 ![Unclean Title](images/dirty_title.png)
